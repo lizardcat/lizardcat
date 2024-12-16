@@ -11,10 +11,9 @@
 ---
 
 ## 🚀 About Me
-- 🧙‍♂️ A fantasy and sci-fi enthusiast who loves immersing myself in epic worlds.
 - 🎮 Gamer at heart, whether it’s RPGs or single-player adventures.
-- 🎲 DM/Player who enjoys crafting stories and rolling dice with friends in Dungeons & Dragons.
-- ✍️ I write about software engineering and my favorite topics on my [blog](#blog).
+- 🧙‍♂️ DM/Player who enjoys crafting stories and rolling dice with friends in Dungeons & Dragons.
+- ✍🏽 I write about software engineering and my favorite topics on my [blog](#blog).
 
 ---
 
