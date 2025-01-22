@@ -27,7 +27,7 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](#)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0055FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/araza.bsky.social)
-[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=blogger&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=blogger&logoColor=white)](https://lizardcat.github.io)
 
 ---
 
