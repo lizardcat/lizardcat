@@ -2,11 +2,11 @@
 
 **I'm a Software Engineer passionate about building clean, efficient, and scalable solutions.** I specialize in:
 
-- **Languages**: Java | Python | Ruby | JavaScript
-- **Backend**: Spring Boot | Flask | Rails | Node.js
+- **Languages**: Java | Python | JavaScript
+- **Backend**: Spring Boot | Flask | Node.js
 - **Frontend**: React.js | Vue.js | HTML | CSS
 - **Databases**: MySQL | PostgreSQL | MongoDB
-- **Tools & Platforms**: Docker | AWS | Git | IntelliJ | VSCode
+- **Tools & Platforms**: Docker | Git | IntelliJ | VSCode
 
 ---
 
