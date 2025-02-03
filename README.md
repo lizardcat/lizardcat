@@ -34,6 +34,7 @@
 ## 📜 Projects
 Here are a few standout projects:
 
+- **IMDb Movie Recommender** |  [Code](https://github.com/lizardcat/python_movie_rec_app) |  [Live Demo](https://imdbmovierecs.streamlit.app/)
 - **Job Portal** | [Code](https://github.com/lizardcat/usiu-job-board)
 - **Payroll System** | [Code](https://github.com/lizardcat/usiu-payroll-system)
 <!-- - **Project 3**: Description | [Code](https://github.com/your-project3) -->
