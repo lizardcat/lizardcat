@@ -1,6 +1,6 @@
 # 👋🏽 Welcome!
 
-## 🔧 Specialization  
+## 🛠️ Specialization  
 - **Languages**: Java | Python | JavaScript
 - **Backend**: Spring Boot | Flask | Node.js
 - **Frontend**: React.js | Vue.js | HTML | CSS
