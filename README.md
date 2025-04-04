@@ -20,6 +20,7 @@
 ## 📜 Projects
 - **Intelligent Tutoring System** | [Code](https://github.com/lizardcat/intelligent-tutoring-system) | [Live Demo](https://intelligent-tutoring-system.streamlit.app/)
 - **IMDb Movie Recommender** |  [Code](https://github.com/lizardcat/python_movie_rec_app) |  [Live Demo](https://imdbmovierecs.streamlit.app/)
+- **Stocksasa - AI Market Trend Prediction App** | [Code](https://github.com/lizardcat/stocksasa) | [Live Demo](https://stocksasa.streamlit.app/)
 - **Job Portal** | [Code](https://github.com/lizardcat/usiu-job-board)
 - **Payroll System** | [Code](https://github.com/lizardcat/usiu-payroll-system)
 
