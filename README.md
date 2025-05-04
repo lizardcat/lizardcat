@@ -1,6 +1,6 @@
 # 👋🏽 Welcome!
 
-## 🧙‍♂️ Arcanum  
+## 🧙‍♂️ Arcana  
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🦄 Interesting-ish Projects
+## 🦄 Conjurings
 - **Intelligent Tutoring System** | [Code](https://github.com/lizardcat/intelligent-tutoring-system) | [Live Demo](https://intelligent-tutoring-system.streamlit.app/)
 - **IMDb Movie Recommender** |  [Code](https://github.com/lizardcat/python_movie_rec_app) |  [Live Demo](https://imdbmovierecs.streamlit.app/)
 - **Stocksasa - AI Market Trend Prediction App** | [Code](https://github.com/lizardcat/stocksasa) | [Live Demo](https://stocksasa.streamlit.app/)
