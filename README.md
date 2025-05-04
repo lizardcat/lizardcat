@@ -25,7 +25,7 @@
 
 ---
 
-## 🔮 Connect With Me
+## 🔮 Commune Across the Void
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0055FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/alexraza.tech)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=blogger&logoColor=white)](https://alexraza.tech)
 
