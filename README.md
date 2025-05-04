@@ -16,7 +16,7 @@
 
 ---
 
-## 📜 Projects
+## 🦄 Interesting-ish Projects
 - **Intelligent Tutoring System** | [Code](https://github.com/lizardcat/intelligent-tutoring-system) | [Live Demo](https://intelligent-tutoring-system.streamlit.app/)
 - **IMDb Movie Recommender** |  [Code](https://github.com/lizardcat/python_movie_rec_app) |  [Live Demo](https://imdbmovierecs.streamlit.app/)
 - **Stocksasa - AI Market Trend Prediction App** | [Code](https://github.com/lizardcat/stocksasa) | [Live Demo](https://stocksasa.streamlit.app/)
@@ -25,8 +25,8 @@
 
 ---
 
-## 🌐 Connect With Me
-[![Bluesky](https://img.shields.io/badge/-Bluesky-0055FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/araza.bsky.social)
+## 🔮 Connect With Me
+[![Bluesky](https://img.shields.io/badge/-Bluesky-0055FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/alexraza.tech)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=blogger&logoColor=white)](https://alexraza.tech)
 
 ---
