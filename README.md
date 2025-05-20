@@ -54,7 +54,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
       <img src="/assets/payroll-demo.gif" width="90%" alt="Payroll System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       <p>
         Payroll web app with Kenyan salary and tax calculations.<br/>
-        <strong>Java, JavaFX, MySQL</strong>
+        <strong>Java, Springboot, MySQL</strong>
       </p>
       <a href="https://github.com/lizardcat/usiu-payroll-system">
         <img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=flat&logo=github&logoColor=white"/>
