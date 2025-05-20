@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aa-raza">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
   </a>
   <a href="https://bsky.app/profile/alexraza.tech">
     <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
