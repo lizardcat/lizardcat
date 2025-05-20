@@ -27,6 +27,7 @@
 
 ## 🔮 Commune
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0055FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/alexraza.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aa-raza)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=blogger&logoColor=white)](https://alexraza.tech)
 
 ---
