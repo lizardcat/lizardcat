@@ -75,7 +75,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
       <img src="https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
     </a>
   </td>
-  </tr>.
+  </tr>
 </table>
 
 
