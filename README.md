@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://alexraza.tech">
-    <img src="https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aa-raza">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://bsky.app/profile/alexraza.tech">
-    <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=flat&logo=bluesky&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
 </p>
 
