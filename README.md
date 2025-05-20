@@ -22,7 +22,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
       <img src="assets/stocksasa-demo.gif" width="90%" alt="Stocksasa" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       <p>
         Predictive market analytics for worldwide stocks using random forest ML algorithm.<br/>
-        <strong>Python, Streamlit, LSTM</strong>
+        <strong>Python, Streamlit, Random Forest classifier</strong>
       </p>
       <a href="https://github.com/lizardcat/stocksasa">
         <img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=flat&logo=github&logoColor=white"/>
