@@ -19,7 +19,9 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Stocksasa</h3>
-      <img src="assets/stocksasa-demo-reduced.gif" width="90%" alt="Stocksasa" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <a href="https://github.com/lizardcat/stocksasa">
+        <img src="assets/stocksasa-demo-reduced.gif" width="90%" alt="Stocksasa" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
       <p>
         Predictive market analytics for worldwide stocks using random forest ML algorithm.<br/>
         <strong>Python, Streamlit, Random Forest classifier</strong>
@@ -34,7 +36,9 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
 
   <td width="50%" valign="top" align="center">
     <h3>IMDb Movie Recommender</h3>
-    <img src="/assets/imdb-demo-reduced.gif" width="90%" alt="IMDb Movie Recommender" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    <a href="https://github.com/lizardcat/python_movie_rec_app">
+      <img src="/assets/imdb-demo-reduced.gif" width="90%" alt="IMDb Movie Recommender" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    </a>
     <p>
       Content-based movie recommendation engine with genre and keyword vectorization.<br/>
       <strong>Python, Streamlit, scikit-learn</strong>
@@ -51,7 +55,9 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Payroll System</h3>
-      <img src="/assets/payroll-demo.gif" width="90%" alt="Payroll System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+       <a href="https://github.com/lizardcat/usiu-payroll-system">
+        <img src="/assets/payroll-demo.gif" width="90%" alt="Payroll System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+       </a>
       <p>
         Payroll web app with Kenyan salary and tax calculations.<br/>
         <strong>Java, Springboot, MySQL</strong>
@@ -63,7 +69,9 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
 
   <td width="50%" valign="top" align="center">
     <h3>Intelligent Tutoring System</h3>
-    <img src="/assets/kbs-demo-reduced.gif" width="90%" alt="Intelligent Tutoring System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    <a href="https://github.com/lizardcat/intelligent-tutoring-system">
+      <img src="/assets/kbs-demo-reduced.gif" width="90%" alt="Intelligent Tutoring System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    </a>
     <p>
       Adaptive quiz generator and feedback system powered by NLP.<br/>
       <strong>Python, Streamlit, spaCy</strong>
