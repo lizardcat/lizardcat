@@ -13,7 +13,7 @@
   <a href="https://bsky.app/profile/alexraza.tech">
     <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
 
 Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir, with a focus on building robust, high-performance systems. I design practical tools and user-friendly web applications that prioritize reliability, scalability, and clean architecture.
