@@ -20,7 +20,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Stocksasa</h3>
-      <a href="https://stocksasa.streamlit.app/">
+      <a href="https://30-dashboards-30-days.netlify.app/dashboard-03">
         <img src="assets/stocksasa-demo-reduced.gif" width="90%" alt="Stocksasa" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
@@ -30,7 +30,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
       <a href="https://github.com/lizardcat/stocksasa">
         <img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=flat&logo=github&logoColor=white"/>
       </a>
-      <a href="https://stocksasa.streamlit.app">
+      <a href="https://stocksasa.streamlit.app](https://30-dashboards-30-days.netlify.app/dashboard-03">
         <img src="https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
       </a>
     </td>
