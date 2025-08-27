@@ -37,7 +37,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
 
   <td width="50%" valign="top" align="center">
     <h3>IMDb Movie Recommender</h3>
-    <a href="https://github.com/lizardcat/python_movie_rec_app">
+    <a href="https://imdbmovierecs.streamlit.app/">
       <img src="/assets/imdb-demo-reduced.gif" width="90%" alt="IMDb Movie Recommender" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
     </a>
     <p>
@@ -70,7 +70,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
 
   <td width="50%" valign="top" align="center">
     <h3>Intelligent Tutoring System</h3>
-    <a href="https://github.com/lizardcat/intelligent-tutoring-system">
+    <a href="https://intelligent-tutoring-system.streamlit.app/">
       <img src="/assets/kbs-demo-reduced.gif" width="90%" alt="Intelligent Tutoring System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
     </a>
     <p>
