@@ -20,7 +20,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Stocksasa</h3>
-      <a href="https://github.com/lizardcat/stocksasa">
+      <a href="https://stocksasa.streamlit.app/">
         <img src="assets/stocksasa-demo-reduced.gif" width="90%" alt="Stocksasa" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
