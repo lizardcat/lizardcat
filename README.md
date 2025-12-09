@@ -42,7 +42,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
         </a>
         <p>
           Full-stack personal finance tracker with "You Need a Budget" (YNAB) budgeting, budget templates, and transaction management<br/>
-          <strong>Python, Flask, SQLAlchemy, PostgreSQL</strong>
+          <strong>Python, Flask, PostgreSQL</strong>
         </p>
         <a href="https://github.com/lizardcat/personal-finance-tracker">
           <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
