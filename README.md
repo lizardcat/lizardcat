@@ -25,7 +25,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
       </a>
       <p>
         Comprehensive GitHub analytics with real-time API data, interactive charts, repository insights, and activity tracking.<br/>
-        <strong>React, Recharts, GitHub API, Tailwind CSS</strong>
+        <strong>React, GitHub API, Tailwind CSS</strong>
       </p>
       <a href="https://github.com/lizardcat/30-dashboards-30-days">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
