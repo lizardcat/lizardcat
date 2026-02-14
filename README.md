@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/aa-raza">
     <img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
   </a>
-  <a href="https://bsky.app/profile/alexraza.tech">
+  <a href="https://bsky.app/profile/araza.bsky.social">
     <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
