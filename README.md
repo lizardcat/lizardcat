@@ -1,7 +1,7 @@
 <h1 align="center">👋🏽 Welcome!</h1>
 
 <p align="center">
-  <a href="https://alexraza.tech">
+  <a href="https://dev.alexraza.com">
     <img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aa-raza">
