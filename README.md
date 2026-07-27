@@ -1,13 +1,17 @@
 <h1 align="center">👋🏽 Welcome!</h1>
 
-<table align="center" border="0">
-  <tr>
-    <td><a href="https://dev.alexraza.com"><img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" /></a></td>
-    <td><a href="https://linkedin.com/in/aa-raza"><img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" /></a></td>
-    <td><a href="https://bsky.app/profile/araza.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a></td>
-    <td><img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://dev.alexraza.com">
+    <img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aa-raza">
+    <img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
+  </a>
+  <a href="https://bsky.app/profile/araza.bsky.social">
+    <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
+</p>
 
 Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir, with a focus on building robust, high-performance systems. I design practical tools and user-friendly web applications that prioritize reliability, scalability, and clean architecture.
 
