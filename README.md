@@ -15,7 +15,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🎓 Educurator</h3>
+      <h3>🎓 The Education Curator</h3>
       <a href="https://educurator.dev">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhvdGh4b3BweDB6aGtnY2J6ZjZqZzV3ZGlsMjAxem8yeGFpcTR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiAvq9qcEUDUvZQ692/giphy.gif" width="90%" alt="Educurator" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
