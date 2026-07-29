@@ -21,7 +21,7 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
       </a>
       <p>
         My undergrad capstone project, featuring free tools for international students applying to US universities: school matching, GPA conversion, cost estimation, and application tracking.<br/>
-        <strong>Elixir, Phoenix</strong>
+        <strong>Elixir, Phoenix, PostgreSQL</strong>
       </p>
       <a href="https://educurator.dev">
         <img src="https://img.shields.io/badge/Live_Demo-educurator.dev-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
