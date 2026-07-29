@@ -1,17 +1,13 @@
 <h1 align="center">👋🏽 Welcome!</h1>
 
-<p align="center">
-  <a href="https://dev.alexraza.com">
-    <img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aa-raza">
-    <img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
-  </a>
-  <a href="https://bsky.app/profile/araza.bsky.social">
-    <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td><a href="https://dev.alexraza.com"><img src="https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white" /></a></td>
+    <td><a href="https://linkedin.com/in/aa-raza"><img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" /></a></td>
+    <td><a href="https://bsky.app/profile/araza.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a></td>
+    <td><img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/></td>
+  </tr>
+</table>
 
 Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir, with a focus on building robust, high-performance systems. I design practical tools and user-friendly web applications that prioritize reliability, scalability, and clean architecture.
 
@@ -86,19 +82,3 @@ Software engineer based in Nairobi, KE, specializing in Java, Python, and Elixir
     </td>
   </tr>
 </table>
-
-
-<h1 align="center">🧙‍♂️ Arcana</h1>
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge\&logo=spring-boot\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white) ![Phoenix](https://img.shields.io/badge/Phoenix-%23F05439.svg?style=for-the-badge\&logo=phoenix-framework\&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white) 
-
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
